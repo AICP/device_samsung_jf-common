@@ -315,7 +315,7 @@
     <!-- Wether doze feature is enabled by default in settings. -->
     <bool name="config_doze_enabled_by_default">false</bool>
 
-    <bool name="config_dreamsSupported">false</bool>
+    <bool name="config_dreamsSupported">true</bool>
     <bool name="config_dozeAfterScreenOff">true</bool>
 
     <!-- Configure wifi tcp buffersizes in the form:
