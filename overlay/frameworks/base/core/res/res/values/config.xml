@@ -346,4 +346,7 @@
     -->
     <bool name="config_proximityCheckOnWake">true</bool>
 
+    <!-- Hardware keys on/off option -->
+    <bool name="config_hwKeysPref">true</bool>
+
 </resources>
